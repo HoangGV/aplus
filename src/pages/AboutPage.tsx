@@ -17,13 +17,13 @@ export default function AboutPage() {
 
       <article className="rounded-2xl border border-slate-200 bg-white p-6 sm:p-8 dark:border-slate-800 dark:bg-slate-900">
         <p className="text-sm font-semibold text-[#4169E1] dark:text-[#6F8FF2]">
-          Aplus grande | Người đồng hành
+          Aplus | Người đồng hành
         </p>
         <h1
           className="mt-1.5 text-2xl font-bold tracking-tight text-slate-900 sm:text-3xl dark:text-white"
           style={{ textWrap: "balance" }}
         >
-          Giới thiệu về Aplus grande
+          Giới thiệu về Aplus
         </h1>
         <p className="mt-2 text-sm text-slate-500 dark:text-slate-400">
           Điểm số chỉ có thể tốt hơn

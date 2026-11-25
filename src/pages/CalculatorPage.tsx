@@ -323,7 +323,7 @@ export default function CalculatorPage() {
       <section className="mb-8">
         <div className="max-w-3xl">
           <p className="text-sm font-semibold text-[#4169E1] dark:text-[#6F8FF2]">
-            Aplus grande | Người đồng hành
+            Aplus | Người đồng hành
           </p>
           <h1
             className="mt-1.5 text-2xl font-bold tracking-tight text-slate-900 sm:text-3xl dark:text-white"

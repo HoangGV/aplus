@@ -31,12 +31,12 @@ export default function Header({ theme, onToggleTheme }: HeaderProps) {
         >
           <img
             src={iconSrc}
-            alt="Aplus grande"
+            alt="Aplus"
             referrerPolicy="no-referrer"
             className="h-8 w-8 shrink-0 rounded-lg object-cover ring-1 ring-slate-200 dark:ring-slate-700"
           />
           <span className="text-base font-bold tracking-tight text-slate-900 dark:text-white">
-            Aplus grande
+            Aplus
           </span>
         </Link>
 

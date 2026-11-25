@@ -481,10 +481,10 @@ export function downloadSampleTranscriptXlsx(): void {
   ];
   const workbook = XLSX.utils.book_new();
   XLSX.utils.book_append_sheet(workbook, worksheet, "BangDiem");
-  XLSX.writeFile(workbook, "bang-diem-mau-aplus-grande.xlsx");
+  XLSX.writeFile(workbook, "bang-diem-mau-aplus.xlsx");
 }
 
 export function createSampleTranscriptData(): TranscriptData {
   const stringRows = SAMPLE_ROWS.map((row) => row.map((cell) => String(cell)));
-  return buildTranscriptFromRows(stringRows, "bang-diem-mau-aplus-grande.xlsx");
+  return buildTranscriptFromRows(stringRows, "bang-diem-mau-aplus.xlsx");
 }
