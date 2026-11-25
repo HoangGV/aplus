@@ -1,25 +1,15 @@
 {
-  "short_name": "APlus",
-  "name": "A+ Điểm số chỉ có thể TỐT hơn",
+  "short_name": "Aplus grande",
+  "name": "Aplus grande | Người đồng hành - Điểm số chỉ có thể tốt hơn",
   "icons": [
     {
-      "src": "favicon.webp",
-      "sizes": "500x500",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "logo.svg",
-      "type": "image/png",
-      "sizes": "500x500"
-    },
-    {
-      "src": "logo.svg",
-      "type": "image/png",
-      "sizes": "500x500"
+      "src": "icon-ndh-aplus.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#4169E1",
+  "background_color": "#f8fafc"
 }
